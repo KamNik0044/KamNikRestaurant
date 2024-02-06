@@ -4,6 +4,7 @@ import { Toaster } from "react-hot-toast";
 import Home from "./Pages/Home";
 import NotFound from "./Pages/NotFound";
 import Success from "./Pages/Success";
+
 const App = () => {
   return (
     <Router>
